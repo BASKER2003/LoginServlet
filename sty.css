@@ -1,0 +1,16 @@
+#tab
+{
+    width : 50%;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+#td1
+{
+    text-align:center;
+    border: 2px solid black; 
+}
+#td2,#td3,#sub,#cle
+{
+    text-align: center;
+}
